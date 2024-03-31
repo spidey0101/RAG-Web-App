@@ -25,7 +25,7 @@ We welcome contributions from the community to enhance this project further. Fee
 This project is licensed under the [MIT License](LICENSE).
 
 **Authors:**
-- [Roshan Avinash]
-- [Moulik Sharma]
+- Roshan Avinash
+- Moulik Sharma
 
 Thank you for checking out our JavaScript RAG Web App with LlamaIndex. Happy coding! 🚀
